@@ -1,0 +1,16 @@
+If you want to reset everything, go to %userprofile%\AppData\Roaming\Code and delete the 
+whole folder after you uninstall the VS code, then install it again.
+
+
+************************************************************************************************
+As for your settings, you can open your user settings through the command palette:
+
+    Press F1
+    Type user settings
+    Press enter
+
+    Click the "sheet" icon to open the settings.json file:
+
+    
+
+From there you can delete the file's contents and save to reset your settings.
